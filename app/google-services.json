@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "908600696286",
+    "firebase_url": "https://wolfstreet-user.firebaseio.com",
+    "project_id": "wolfstreet-user",
+    "storage_bucket": "wolfstreet-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908600696286:android:dd218780395789e5",
+        "android_client_info": {
+          "package_name": "com.alpha.wolfstreet_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908600696286-bg17lnnlo9o3lngm3gju6ve7qvls433g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alpha.wolfstreet_pro",
+            "certificate_hash": "d6e553b6a02038d4787bc92e1ba211e77ea72a41"
+          }
+        },
+        {
+          "client_id": "908600696286-onmjvgpfiktl3k1obd1hfltlu22qo0g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlkKxOKNpJ3l1McHk1KGHIRkxnAe-s71Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908600696286-onmjvgpfiktl3k1obd1hfltlu22qo0g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
